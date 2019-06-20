@@ -1,4 +1,4 @@
-# vue-elemtny-admin-cognito
+# vue-element-admin-cognito
 
 > 參考使用PanJiaChen 大大的 vue-element-admin 樣板實作 aws cognito 登入
 > 源自（https://github.com/PanJiaChen/vue-admin-template）
