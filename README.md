@@ -3,15 +3,19 @@
 > 參考使用PanJiaChen 大大的 vue-element-admin 樣板實作 aws cognito 登入
 > 源自（https://github.com/PanJiaChen/vue-admin-template）
 
+> 如果沒使用過cognito 可以參考 https://github.com/aws-samples/aws-amplify-vue 快速部署 cognito
+
+
+
 
 ## Build Setup
 
 ```bash
 # clone the project
-git clone
+git clone https://github.com/LouisKoXiang/vue-element-admin-cognito.git
 
 # enter the project directory
-cd vue-cognito-element-admin
+cd vue-element-admin-cognito
 
 # Set env
 VUE_APP_COGNITO_BASE_URL = ''
