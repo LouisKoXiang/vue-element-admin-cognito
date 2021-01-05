@@ -16,7 +16,7 @@
   "dependencies": {
     "aws-amplify": "^1.1.28",
     "aws-amplify-vue": "^0.2.11",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "element-ui": "2.7.2",
     "js-cookie": "2.2.0",
     "normalize.css": "7.0.0",
